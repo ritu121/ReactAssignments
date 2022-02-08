@@ -1,1 +1,40 @@
 
+
+.row{
+    background-color: rgb(197, 191, 191);
+    margin: 10px !important;
+}
+
+.head{
+    background-color: rgb(169, 185, 25);
+    border: 2px solid black;
+    height: 80px;
+    margin: 5px !important;
+   
+}
+.sect{
+    background-color: brown;
+    border: 2px solid black;
+    margin: 5px !important;
+    height: 130px;
+}
+.foot{
+    background-color: cyan;
+    border: 2px solid black;
+    margin: 5px !important;
+    height: 80px;
+}
+@media only screen and (min-width:1024px) {
+    .footer{
+        width: 33% !important;
+    }
+    .foot{
+        height:170px;
+    }
+    .sect{
+        height:170px;
+    }
+    .head{
+        height:170px;
+    }
+  }
