@@ -28,13 +28,7 @@
     .footer{
         width: 33% !important;
     }
-    .foot{
-        height:170px;
-    }
-    .sect{
-        height:170px;
-    }
-    .head{
+    .foot,.sect,.head{
         height:170px;
     }
   }
