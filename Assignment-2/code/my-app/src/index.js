@@ -13,7 +13,7 @@ const employee = {
   profileImg: 'https://www.w3schools.com/howto/img_avatar.png'
        }
 
-ReactDOM.render(
+ReactDOM.render( 
   <React.StrictMode>
     <App employee={employee} />
   </React.StrictMode>,
