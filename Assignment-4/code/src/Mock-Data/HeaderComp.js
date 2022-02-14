@@ -11,7 +11,7 @@ export class HeaderComp extends Component {
                     <div className='header'><img src={InstaImg} alt="logoImage" /></div>
                     <div className='logoHeading'>InstaClone</div>
                      <div className='camera'><img src={CameraImg} alt="CameraImage" /></div>
-                 </div>
+                 </div>    
              </div> 
             </>
         )

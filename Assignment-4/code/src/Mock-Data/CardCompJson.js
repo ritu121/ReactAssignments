@@ -29,7 +29,7 @@ const CardCompJs = () => {
               
               <div className='card'>
                   <div className='head'>
-                  <div className='info'>
+                  <div className='info'>  
                   <div className='name'><b>{person.name}</b></div>
                   <div className='location'>{person.location}</div>
                  

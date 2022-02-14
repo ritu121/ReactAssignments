@@ -16,5 +16,5 @@ const Postview=()=> {
       
     )
 }
-
+   
 export default Postview;
